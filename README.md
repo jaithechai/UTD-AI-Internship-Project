@@ -76,6 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **UT Dallas** for providing the opportunity and resources for the AI Internship.
 - **Dr. Anurag Nagar** and **Dr. Anjum Chida** for their guidance and support.
+- ** My fellow project collaborators Gregory Matthew, Rithvik Punati
 
 ## Contact
 
