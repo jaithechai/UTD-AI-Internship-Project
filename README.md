@@ -1,7 +1,7 @@
 # UTD-AI-Internship-Project
 Final project from the UTD AI Workshop: Gym Buddy RIR Calculator
 
-Presentation Link: https://docs.google.com/presentation/d/1owSh0jI6tgAfvqnGZK7HgLIHJDzugIt-H90B_Xrgmfc/edit?usp=sharing
+[Presentation Link](https://docs.google.com/presentation/d/1owSh0jI6tgAfvqnGZK7HgLIHJDzugIt-H90B_Xrgmfc/edit?usp=sharing)
 
 ## Introduction
 
@@ -17,7 +17,7 @@ How can beginners accurately gauge their reps in reserve (RIR) during workouts?
 
 Using concentric rep times extracted from a video submitted by a user, this project predicts how many reps were left until failure. The AI model processes video data to provide an estimation of RIR, helping users optimize their workout intensity.
 
-Since the necessary data was not readily available online, a team and I collected it ourselves using ArUco stickers for precise tracking and measurement.
+Since the necessary data was not readily available online, my team and I collected it ourselves using ArUco stickers for precise tracking and measurement.
 
 ## Data/Feature Collection
 
@@ -68,26 +68,7 @@ To train and validate the model, the following features are collected:
     ```
 2. Follow the instructions in the command line interface or application window to input workout data and receive RIR estimations.
 3. **Important:** Before running the application, make sure to place the video file of you completing the reps into the designated folder. 
-You can find this folder in the code at the location marked with a comment. 
-Make sure the video file name matches the expected format used in the code.
-
-# Place your video file of completing reps in this folder
-video_file_path = "path/to/your/video/folder/"
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- **UT Dallas** for providing the opportunity and resources for the AI Internship.
-- **Dr. Anurag Nagar** and **Dr. Anjum Chida** for their guidance and support.
-- My fellow project collaborators **Gregory Matthew**, **Rithvik Punati**
-
-## Contact
-
-For any questions or further information, please contact [Jai Dilbaghi](jai.dilbaghi@gmail.com).
-
-## Project Link
-
-[UTD AI Workshop Final Project](https://github.com/jaithechai/UTD-AI-Internship-Project)
+   You can find this folder in the code at the location marked with a comment:
+   ```python
+   # Place your video file of completing reps in this folder
+   video_file_path = "path/to/your/video/folder/"
