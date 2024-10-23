@@ -72,3 +72,20 @@ To train and validate the model, the following features are collected:
    ```python
    # Place your video file of completing reps in this folder
    video_file_path = "path/to/your/video/folder/"
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- **UT Dallas** for providing the opportunity and resources for the AI Internship.
+- **Dr. Anurag Nagar** and **Dr. Anjum Chida** for their guidance and support.
+- My fellow project collaborators **Gregory Matthew**, **Rithvik Punati**
+
+## Contact
+
+For any questions or further information, please contact [Jai Dilbaghi](jai.dilbaghi@gmail.com).
+
+## Project Link
+
+[UTD AI Workshop Final Project](https://github.com/jaithechai/UTD-AI-Internship-Project)
