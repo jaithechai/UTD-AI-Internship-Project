@@ -67,6 +67,12 @@ To train and validate the model, the following features are collected:
     python main.py
     ```
 2. Follow the instructions in the command line interface or application window to input workout data and receive RIR estimations.
+3. **Important:** Before running the application, make sure to place the video file of you completing the reps into the designated folder. 
+You can find this folder in the code at the location marked with a comment. 
+Make sure the video file name matches the expected format used in the code.
+
+# Place your video file of completing reps in this folder
+video_file_path = "path/to/your/video/folder/"
 
 ## License
 
